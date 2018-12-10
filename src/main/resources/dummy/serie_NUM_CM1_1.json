@@ -1,0 +1,28 @@
+{
+  "id" : 1,
+  "label" : "Numérique CM1",
+  "theme" : "NUM",
+  "level" : "CM1",
+  "questions" : [
+    {
+      "id" : 1,
+      "label" : "Combien font 9 x 8 ?",
+      "answers" : [
+        {
+          "id" : 1,
+          "label" : "72"
+        }
+      ]
+    },
+    {
+      "id" : 2,
+      "label" : "Combien font 5 x 5 ?",
+      "answers" : [
+        {
+          "id" : 2,
+          "label" : "25"
+        }
+      ]
+    }
+  ]
+}
